@@ -31,4 +31,5 @@
 - **scibert_metadata.json** → Metadata for SciBERT embeddings.
 
 <img width="1898" height="899" alt="image" src="https://github.com/user-attachments/assets/24615524-5505-4928-9a89-9fe20caacb73" />
-<img width="1900" height="888" alt="image" src="https://github.com/user-attachments/assets/3c63edec-a831-46f0-aadd-fde5d21b214f" />
+<img width="1899" height="592" alt="image" src="https://github.com/user-attachments/assets/cacc1482-ee9c-49aa-a0b8-405dbe506717" />
+
