@@ -1,6 +1,6 @@
 ## Setup Instructions
 
-1. Place the **`Mini-Rag`** folder in **Google Drive**.
+1. Place the **`Mini-RAG`** folder in **Google Drive**.
 2. Open **`Mini_Rag.ipynb`** in **Google Colab**.
 3. Change the runtime to **T4**.
 4. Run all cells.
