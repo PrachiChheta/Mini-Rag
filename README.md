@@ -30,6 +30,6 @@
 - **pdf_processing.log** → Logs PDF processing steps and errors.
 - **scibert_metadata.json** → Metadata for SciBERT embeddings.
 
-<img width="1898" height="899" alt="image" src="https://github.com/user-attachments/assets/24615524-5505-4928-9a89-9fe20caacb73" />
-<img width="1899" height="592" alt="image" src="https://github.com/user-attachments/assets/cacc1482-ee9c-49aa-a0b8-405dbe506717" />
+<img width="1902" height="896" alt="image" src="https://github.com/user-attachments/assets/e27dbdb7-eeae-49a6-a1ba-d359ffcd5b12" />
+<img width="1900" height="630" alt="image" src="https://github.com/user-attachments/assets/224341a6-242d-4d43-8de1-c5e9734038d5" />
 
