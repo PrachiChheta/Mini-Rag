@@ -1,0 +1,27 @@
+langchain-community
+faiss-cpu             
+# faiss-gpu          
+sentence-transformers
+transformers
+torch
+numpy
+docling==2.42.0
+docling-core==2.43.0
+docling-ibm-models==3.8.2
+docling-parse==4.1.0
+accelerate
+bitsandbytes
+pandas
+scikit-learn
+pdfplumber
+langchain
+openai
+tiktoken
+huggingface-hub
+gradio
+tqdm
+python-dotenv
+pandas
+torchvision>=0.15.0
+torchaudio>=2.0.0
+rank_bm25
