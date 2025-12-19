@@ -22,7 +22,7 @@
 - **all_chunks.json** → Extracted text chunks with metadata, images, tables.
 - **bm25_documents.pkl / bm25_index.pkl** → Pickle files for BM25 retrieval.
 - **chunks.py** → Splits PDFs/text into sections or paragraphs.
-- **embedding.py / document_embedding.py** → Creates embeddings for chunks for semantic search.
+- **embedding.py** → Creates embeddings for chunks for semantic search.
 - **markdown.py** → Converts chunks to markdown files in `outputs/`.
 - **model.py** → Loads LLaVA/LLaMA model for multimodal input.
 - **rag.py** → Core RAG pipeline (retrieval + generation).
